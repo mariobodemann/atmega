@@ -1,0 +1,7 @@
+.dep/
+main.eep
+main.hex
+main.lst
+main.o
+main.elf
+main.map
