@@ -5,3 +5,5 @@ main.lst
 main.o
 main.elf
 main.map
+main.lss
+main.sym
